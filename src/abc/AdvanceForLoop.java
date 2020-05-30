@@ -7,7 +7,7 @@ public class AdvanceForLoop {
 		System.out.println("this is only to check a change in the gitup only");
 		
 	} static void gITMethod() {
-		
+		System.out.println("this is only to check a change in the gitup only");
 	}
 
 	public static void main(String[] args) {
