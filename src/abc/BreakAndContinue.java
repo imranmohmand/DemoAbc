@@ -16,7 +16,7 @@ public class BreakAndContinue {
 		
 		
 		/*
-		 *nevigate to the syntax page
+		 *Navigate to the syntax page
 		we fount 7NumLinks
 		for(LinkName.equals"sign Up"){
 		click;

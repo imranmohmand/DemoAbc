@@ -11,6 +11,7 @@ public class trickeyFoorLoopsExample {
 			sum for even number=...
 			 
 		 */
+	
 
 		
 		

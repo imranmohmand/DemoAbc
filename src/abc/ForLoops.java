@@ -91,13 +91,17 @@ public class ForLoops {
 //			System.out.println(i);
 //		}
 		
-		
-		
-//		int i =20;
-//		while(i>=1) {
+//	for(int i=10;i>=1;i--) {
+//		if(i%2==0) {
 //			System.out.println(i);
-//			i-=2;
 //		}
+//	}
+		
+		int i =20;
+		while(i>=1) {
+			System.out.println(i);
+			i-=2;
+		}
 		
 		
 //												// print odd number between 20 to 50 (2 ways)

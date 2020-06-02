@@ -19,9 +19,9 @@ public class NestedPattern {
 		 
 		 */
 //		
-//		for(int c=1;c<=4;c++) {//rows
+//		for(int r=1;r<=4;r++) {//rows
 //			
-//			for(int r=1;r<=5;r++) {//column
+//			for(int c=1;c<=5;c++) {//column
 //				System.out.print("*");
 //			}
 //			System.out.println();
@@ -56,6 +56,7 @@ public class NestedPattern {
 		 54321
 		 
 		 */
+		
 //		for(int r=4;r>=1;r--) {
 //		for(int c=5;c>=1;c--) {
 //			
