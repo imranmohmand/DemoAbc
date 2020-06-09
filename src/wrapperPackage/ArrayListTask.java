@@ -14,7 +14,7 @@ find the size of your arrayList and print all values from that
 public class ArrayListTask {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Generic-->can take only same data type
 		ArrayList<String>strname=new ArrayList<>();
 		strname.add("Aimal");
 		strname.add("Nouman");
@@ -30,6 +30,20 @@ public class ArrayListTask {
 		}
 		int size=strname.size();
 		System.out.println("the total size is : "+size);
+		
+		
+		
+		
+		// ArrayList can be Generic and non Generic 
+		
+	  //non-Generic-->can hold any type of data
+		ArrayList aList=new ArrayList();
+		aList.add("johnsda");
+		aList.add(100);
+		aList.add(10.23);
+		aList.add('a');
+		System.out.println(aList);
+		
 		
 		
 
