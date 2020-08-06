@@ -12,6 +12,8 @@ public class face {
 		System.out.println("please enter the first number");
 		num1=scan.nextInt();
 		System.out.println("please enter the operator");
+		
+		
 		opt=scan.next().charAt(0);
 		System.out.println("please enter the second number");
 		num2= scan.nextInt();

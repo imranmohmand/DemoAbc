@@ -23,7 +23,9 @@ public class HMtask4ArrayList {
 				System.out.println(list);
 			}
 			
+			
 		}
+		
 		
 	}
 

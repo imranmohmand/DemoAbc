@@ -55,6 +55,7 @@ public class BreakAndContinue {
 		/*  ***** create a program that will be asking user to apply for credit card 10 times.
 		as soon you get an "yes" from a user program should be stop asking
 		*/
+		
 		String card; 
 		Scanner scanner=new Scanner(System.in);
 		 for(int i=1;i<=10;i++) {
@@ -65,7 +66,6 @@ public class BreakAndContinue {
 			 }
 			 System.out.println(card);
 		 }
-		 
 		
 		
 	}
